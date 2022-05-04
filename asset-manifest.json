@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/React-Redux-FakeShop/static/css/main.31d6cfe0.css",
+    "main.js": "/React-Redux-FakeShop/static/js/main.b72b045e.js",
+    "index.html": "/React-Redux-FakeShop/index.html",
+    "main.b72b045e.js.map": "/React-Redux-FakeShop/static/js/main.b72b045e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.b72b045e.js"
+  ]
+}
